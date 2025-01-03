@@ -2,8 +2,8 @@
 
 pragma solidity >=0.8.2 <0.9.0;
 
-import "@openzeppelin/contracts@4.5.0/token/ERC721/IERC721.sol";
-import "@openzeppelin/contracts@4.5.0/security/ReentrancyGuard.sol";
+import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
+import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 contract Marketplace is ReentrancyGuard {
 
