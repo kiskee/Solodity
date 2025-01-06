@@ -1,0 +1,23 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "hartar devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiskee/Solodity.git"
+  },
+  "author": "kiskee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiskee/Solodity/issues"
+  },
+  "homepage": "https://github.com/kiskee/Solodity#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  }
+}
